@@ -1,7 +1,7 @@
 ### Olá! Eu sou a Raíza Cirne 
 
 - 🔭 1º ano do Tecnólogo em Desenvolvimento Full Stack - ESTÁCIO DE SÁ
-- 🌱 Estudando HTML5, CSS3 e Python
+- 🌱 Estudando HTML5, CSS3 e Lógica de Programação
 - 🌱 Já vi um pouco de JavaScript
 - 🔥 Front-end
 <br>
