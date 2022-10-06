@@ -1,5 +1,6 @@
 ### Olá! Eu sou a Raíza Cirne 
 
+- 🔭 Formada em Licenciatura em Geografia - UFRJ 
 - 🔭 1º ano do Tecnólogo em Desenvolvimento Full Stack - ESTÁCIO DE SÁ
 - 🌱 Estudando HTML5, CSS3 e Lógica de Programação
 - 🌱 Já vi um pouco de JavaScript
@@ -31,4 +32,13 @@
 <div align = "center">
 <a href="https://git.io/streak-stats">
   <img height="165em" src="https://github-readme-streak-stats.herokuapp.com/?user=RaizaCirne&theme=nightowl"/> 
+</div>
+<div align='center'>
+  <h2>
+    <a
+    target="_blank"
+    style="text-decoration: none"
+    href="https://github.com/RaizaCirne?tab=stars"
+    >Acesse meus repositórios aqui</a>
+  </h2>
 </div>
