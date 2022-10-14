@@ -1,6 +1,6 @@
 ### Olá! Eu sou a Raíza Cirne 
 
-
+- 🔭 Formada em Licenciatura em Geografia - UFRJ 
 - 🔭 1º ano do Tecnólogo em Desenvolvimento Full Stack - ESTÁCIO DE SÁ
 - 🌱 Estudando HTML5, CSS3 e Lógica de Programação
 - 🌱 Já vi um pouco de JavaScript
