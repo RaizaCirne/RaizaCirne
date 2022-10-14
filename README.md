@@ -1,4 +1,5 @@
-### Olá! Eu sou a Raíza Cirne 
+## Olá, Mundo!🌎
+#### Eu sou a Raíza Cirne
 
 - 🔭 Formada em Licenciatura em Geografia - UFRJ 
 - 🔭 1º ano do Tecnólogo em Desenvolvimento Full Stack - ESTÁCIO DE SÁ
