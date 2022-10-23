@@ -3,7 +3,8 @@
 
 - 🔭 Formada em Licenciatura em Geografia - UFRJ
 - 🔭 1º ano do Tecnólogo em Desenvolvimento Full Stack - ESTÁCIO DE SÁ
-- 🌱 Estudando HTML5, CSS3 e Lógica de Programação
+- 🌱 HTML5 e CSS3 
+- 🌱 Estudando Python e Lógica de Programação
 - 🌱 Já vi um pouco de JavaScript
 - 🔥 Front-end
 <br>
