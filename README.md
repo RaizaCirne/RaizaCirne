@@ -5,7 +5,6 @@
 - 🔭 1º ano do Tecnólogo em Desenvolvimento Full Stack - ESTÁCIO DE SÁ
 - 🌱 HTML5 
 - 🌱 CSS3  
-- 🌱 Javascript
 - 🔥 Front-end
 
 
