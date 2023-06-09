@@ -6,7 +6,7 @@
 - 🌱 HTML5 
 - 🌱 CSS3  
 - 🌱 Lógica de Programação
-- 🌱 JavaScript
+- 🌱 Estudando JavaScript
 
 <br>
 <div align = "center">
