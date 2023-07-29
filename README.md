@@ -3,9 +3,10 @@
 
 - 🔭 Formada em Licenciatura em Geografia - UFRJ
 - 🔭 Desenvolvedora Front end
-- 🌱 HTML5 
-- 🌱 CSS3  
 - 🌱 JavaScript
+- 🌱 SASS
+- 🌱 CSS3  
+- 🌱 HTML5 
 
 <br>
 <div align = "center">
