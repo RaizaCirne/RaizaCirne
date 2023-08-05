@@ -3,6 +3,7 @@
 
 - 🔭 Formada em Licenciatura em Geografia - UFRJ
 - 🔭 Desenvolvedora Front end
+- 🌱 Vue.js
 - 🌱 JavaScript
 - 🌱 SASS
 - 🌱 CSS3  
