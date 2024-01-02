@@ -8,6 +8,7 @@
 - 🌱 SASS
 - 🌱 CSS3  
 - 🌱 HTML5 
+- 🌱 WordPress
 
 <br>
 <div align = "center">
