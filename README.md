@@ -1,7 +1,6 @@
 ## Olá, Mundo!🌎
 #### Eu sou a Raíza Cirne
 
-- 🔭 Formada em Licenciatura em Geografia - UFRJ
 - 🔭 Desenvolvedora Front end
 - 🌱 Vue.js
 - 🌱 JavaScript
