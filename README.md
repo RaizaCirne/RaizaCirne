@@ -2,6 +2,7 @@
 #### Eu sou a Raíza Cirne
 
 - 🔭 Desenvolvedora Front end
+- 🌱 ReactJS
 - 🌱 Vue.js
 - 🌱 JavaScript
 - 🌱 SASS
