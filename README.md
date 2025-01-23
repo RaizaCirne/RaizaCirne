@@ -3,7 +3,7 @@
 
 - 🔭 Desenvolvedora Front end
 - 🌱 ReactJS
-- 🌱 Vue.js
+- 🌱 VueJS
 - 🌱 JavaScript
 - 🌱 SASS
 - 🌱 CSS3  
