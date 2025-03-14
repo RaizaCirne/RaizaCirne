@@ -1,7 +1,7 @@
 ## Olá, Mundo!🌎
 #### Eu sou a Raíza Cirne
 
-- 🔭 Desenvolvedora Front end
+- 🔭 Desenvolvedora Front-end
 - 🌱 ReactJS
 - 🌱 VueJS
 - 🌱 JavaScript
