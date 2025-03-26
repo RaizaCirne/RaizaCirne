@@ -6,7 +6,6 @@
 - 🌱 VueJS
 - 🌱 JavaScript
 - 🌱 SASS
-- 🌱 WordPress
 
 <br>
 <div align = "center">
