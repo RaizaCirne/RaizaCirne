@@ -6,8 +6,6 @@
 - 🌱 VueJS
 - 🌱 JavaScript
 - 🌱 SASS
-- 🌱 CSS
-- 🌱 HTML
 
 <br>
 <div align = "center">
